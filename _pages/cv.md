@@ -27,8 +27,7 @@ Mary M. (Molly) Maleckar
 Education
 ---------
 
-2008
-:      **Ph.D., Biomedical Engineering**; The Johns Hopkins University (Baltimore, MD)
+**2008** -- **Ph.D., Biomedical Engineering**; The Johns Hopkins University (Baltimore, MD)
 
 2002
 :   **B.Sc., Biomedical Engineering**; Tulane University (New Orleans, LA)
