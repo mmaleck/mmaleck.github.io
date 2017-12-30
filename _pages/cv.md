@@ -33,56 +33,56 @@ Education
 
 Professional Experience
 ----------
-2017 -- 
-:   **Director**, Models and Theory, The Allen Institute for Cell Science, Seattle, WA.
+**2017 --** 
+:   *Director*, Models and Theory, The Allen Institute for Cell Science, Seattle, WA.
 
-2015 -- 2016			 
-:   **Senior Scientist**, Computational Cardiac Modeling, Simula Research Laboratory, Oslo, Norway
-:   **Training Coordinator**, AFib-TrainNet EU MCSA ITN
-:   **Coordinator**, SysAFib ERA CoSysMed European Project
+**2015 -- 2016**			 
+:   *Senior Scientist*, Computational Cardiac Modeling, Simula Research Laboratory, Oslo, Norway
+:   *Training Coordinator*, AFib-TrainNet EU MCSA ITN
+:   *Coordinator*, SysAFib ERA CoSysMed European Project
 
-2012 -- 2016
-:   **Board Member**, Simula Research Laboratory, Center for Cardiological Innovation (SFI) Board of Directors
+**2012 -- 2016**
+:   *Board Member*, Simula Research Laboratory, Center for Cardiological Innovation (SFI) Board of Directors
 
-2012 -- 2015												  	 
-:   **Director**, Simula School of Research and Innovation, Oslo, Norway  
+**2012 -- 2015**												  	 
+:   *Director*, Simula School of Research and Innovation, Oslo, Norway  
 
-2011 -- 2012											       	      
-:   **Deputy Director for Simulation and Modeling**, Center for Cardiological Innovation (CCI), a Norwegian Center for Research Innovation (SFI)
+**2011 -- 2012**										       	      
+:   *Deputy Director for Simulation and Modeling*, Center for Cardiological Innovation (CCI), a Norwegian Center for Research Innovation (SFI)
 
-2011 -- 2012		 	    	   
-:   **Research Department Head**, Computational Cardiac Modeling, Simula Research Laboratory, Oslo, Norway
+**2011 -- 2012**		 	    	   
+:   *Research Department Head*, Computational Cardiac Modeling, Simula Research Laboratory, Oslo, Norway
 
-2010 						    	   	    		
-:   **Research Group Leader**, Computational Cardiac Modeling and Center for Biomedical Computing, Simula Research Laboratory, Oslo, Norway
+**2010** 						    	   	    		
+:   *Research Group Leader*, Computational Cardiac Modeling and Center for Biomedical Computing, Simula Research Laboratory, Oslo, Norway
 
-2009							       		  	 	  
-:   **Postdoctoral Research Fellow**, Center for Biomedical Computing, Scientific Computing, Simula School of Research and Innovation, Oslo, Norway
+**2009**							       		  	 	  
+:   *Postdoctoral Research Fellow*, Center for Biomedical Computing, Scientific Computing, Simula School of Research and Innovation, Oslo, Norway
 
 Grants and Fellowships
 ----------------------------------------
-2016 -- 2019
+**2016 -- 2019**
 :   SysAFib: Systems medicine for diagnosis and stratification of atrial fibrillation
 :   ERA CoSysMed, European Commission and BIOTEK2021 Research Council of Norway
 
-2015 -- 2019
+**2015 -- 2019**
 :   EU Training Network on Novel Targets and Methods in Atrial Fibrillation (AFib-TrainNet), Marie Skłodowska-Curie Actions, European \
 Commission
 
-2015 -- 2018
+**2015 -- 2018**
 :   “Risk factors for sudden cardiac death during acute myocardial infarction (MI-RISK)”, Novo Nordisk Foundation Interdisciplinary Synergy Grant
 
-2014  -- 2015
+**2014  -- 2015**
 :   PREPARE2: Increased science awareness among youth, Simula School of Research and Innovation, PROFORSK, Research Council of Norway
 
 
-2014
+**2014**
 :   Expert Advisor Policy Fellowship, The Research Council of Norway Brussels Office
 
-2012  -- 2013
+**2012  -- 2013**
 :   Can Simulation shed light on a complex disease process?, Simula Research Laboratory/University of California San Diego, IS-BILAT, Research Council of Norway
 
-2011  -- 2019
+**2011  -- 2019**
 :   The Center for Cardiological Innovation, Simula Research Laboratory, SFI Program, Research Council of Norway
 
 
@@ -98,7 +98,7 @@ Generative Modeling with Conditional Autoencoders: Building an Integrated Cell. 
 
 Peer-reviewed Journal Publications
 --------------------
-2017
+**2017**
 :   Vagos MR, Arevalo H, de Oliveira BL, Sundnes J, **Maleckar MM**. A computational framework for testing arrhythmia marker sensitivities to model parameters in functionally calibrated populations of atrial cells. Chaos. 2017 Sep;27(9):093941.
 
 :   Kallhovd S, **Maleckar MM**, Rognes ME. Inverse estimation of cardiac activation times via gradient-based optimization. Int J Numer Method Biomed Eng. 2017 Jul 25. 
@@ -110,7 +110,7 @@ Peer-reviewed Journal Publications
 
 :   Belardinelli L, **Maleckar MM**, Giles WR. Ventricular Microanatomy, Arrhythmias, and the Electrochemical Driving Force for Na(+): Is There a Need for Flipped Learning? Circ Arrhythm Electrophysiol. 2017 Feb;10(2):e004955. doi: 10.1161/CIRCEP.117.004955. Erratum in: Circ Arrhythm Electrophysiol. 2017 Mar;10 (3):.
 
-2016
+**2016**
 :   Skibsbye L, Jespersen T, Christ T, **Maleckar MM**, van den Brink J, Tavi P, Koivumäki JT. Refractoriness in human atria: Time and voltage dependence of sodium channel availability. J Mol Cell Cardiol. 2016 Dec;101:26-34.
 
 :   Grandi E, **Maleckar MM**. Anti-arrhythmic strategies for atrial fibrillation: The role of computational modeling in discovery, development, and optimization. Pharmacol Ther. 2016 Sep 6. pii: S0163-7258(16)30168-1.
@@ -118,11 +118,11 @@ Peer-reviewed Journal Publications
 :   Lines GT, Oliveira BL, Skavhaug O, **MM Maleckar**. 
 Simple T wave metrics may better predict early ischemia as compared to ST segment. IEEE Transactions on Biomedical Engineering, 2016. Accepted; Early Access available. 
 
-2015
+**2015**
 :   S. Kallhovd, S.U. Gerald, J. Saberniak, K. Haugaa, **MM Maleckar**.Localization and not Extent of Fibrofatty Infiltration is the Primary Factor Determining Conduction Disturbance in a Computational Model of Arrhythmogenic Cardiomyopathy.
 Proceedings IEEE e-Health and Bioengineering 2015. EHB 2015, November 19-21, 2015, Iasi, Romania.
 
-2014
+**2014**
 :   **Maleckar MM**, Lines GT, Koivumäki J,  Cordeiro JM, Calloe K.NS5806 partially restores action potential duration but fails to ameliorate calcium transient dysfunction in a computational model of canine heart failure, 2014 Nov;16 Suppl 4:iv46-iv55.
 
 :   Koivumäki JT, Clark RB, Belke D, Kondo C, Fedak PW, **Maleckar MM**, Giles WR.Na(+) current expression in human atrial myofibroblasts: identity and functional roles. Front Physiol. 2014 Aug 7;5:275. doi: 10.3389/fphys.2014.00275. eCollection 2014.
@@ -133,12 +133,12 @@ Proceedings IEEE e-Health and Bioengineering 2015. EHB 2015, November 19-21, 201
 
 :   Yuan L, Koivumäki JT, Liang B, Lorentzen LG, Tang C, Andersen MN, Svendsen JH, Tfelt-Hansen J, **Maleckar M**, Schmitt N, Olesen MS, Jespersen T. Investigations of the Navß1b sodium channel subunit in human ventricle; functional characterization of the H162P Brugada syndrome mutant. Am J Physiol Heart Circ Physiol. 2014 Apr 15;306(8):H1204-12. doi: 10.1152/ajpheart.00405.2013. Epub 2014 Feb 21.
 
-2013
+**2013**
 :   Li P, Lines GT, **Maleckar MM**, Tveito A. Mathematical Models of Cardiac Pacemaking Function. Frontiers in Physics, 1(20): 2013 http://www.frontiersin.org/Journal/10.3389/fphy.2013.00020/abstract     
 
 :   Wilhelms M, Hetmann H, **Maleckar MM**, Koivumäki J, Dossel O, Seeman G. Benchmarking electrophysiological models of human atrial myocytes, Frontiers in Physiology 3(487), 2013.
 
-2012
+**2012**
 :   Koivumäki J, Christ T, Seemann G, and **Maleckar MM**. Divergent action potential morphology in human atrial cells vs. tissue: underlying ionic mechanisms, In: Computing in Cardiology, ed. by Alan Murray, vol. 39, pp. 121-124, Alan Murray (ISBN: 978-1-4673-2076-4), 2012. Refereed proceedings.
 
 :   Rose RA, Belke DD, **Maleckar MM**, Giles WR. Ca2+ Entry Through TRP-C Channels Regulates Fibroblast Biology in Chronic Atrial Fibrillation. Circulation 126(17): 2039-41, 2012.
@@ -149,7 +149,7 @@ Proceedings IEEE e-Health and Bioengineering 2015. EHB 2015, November 19-21, 201
 
 :   Tveito A, Lines G, and **Maleckar MM**.  Note on a possible pro-arrhythmic property of anti-arrhythmic drugs aimed at improving gap-junction coupling. Biophys J 102(2): 231-37, 2012.
 
-2011
+**2011**
 :   Niederer SA, Kerfoot E, Benson A, Bernabeu MO, Bernus O, Bradley C, Cherry EM, Clayton R, Fenton FH, Garny A, Heidenreich E, Land S, **Maleckar M**, Pathmanathan P, Plank G, Rodríguez JF, Roy I, Sachse FB, Seemann G, Skavhaug O  and Smith NP. N-Version Benchmark Evaluation of Cardiac Tissue Electrophysiology Simulators. Philosophical Transactions of the Royal Society VPH Issue. Philos Transact A Math Phys Eng Sci. 369(1954): 4331-51, 2011.
 
 :   McDowell K, Arevalo H, **Maleckar MM**, and Trayanova NA. Susceptibility to reentry in the infarcted heart depends on active fibroblast density. Biophysical Journal 101(6): 1307-15, 2011.	       	      	  
@@ -158,7 +158,7 @@ Proceedings IEEE e-Health and Bioengineering 2015. EHB 2015, November 19-21, 201
 
 :   Tveito A, Lines G, Artebrant R, Skavhaug O, and **Maleckar MM**. Existence of excitation waves for a collection of cardiomyocytes electrically coupled to fibroblasts. Mathematical Biosciences 230(2): 79-86, 2011. 
 
-2009 -- 
+**2009 -- **
 :   **Maleckar MM**, Greenstein JL, Giles WR, and Trayanova NA. Electrotonic coupling between human atrial myocytes and fibroblasts alters excitability and repolarization. Biophysical Journal 97(8): 2179-2190, 2009.
 
 :   **Maleckar MM**, Greenstein JL, Giles WR, and Trayanova NA. Repolarization in the human atrial myocyte – rate-dependent changes in the action potential waveform. Am J Physiol Heart Circ Physiol 297(4): 1398-1410, 2009.
