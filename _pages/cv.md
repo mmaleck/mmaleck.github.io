@@ -27,10 +27,9 @@ Mary M. (Molly) Maleckar
 Education
 ---------
 
-**2008** -- **Ph.D., Biomedical Engineering**; The Johns Hopkins University (Baltimore, MD)
+**2008** -- *Ph.D., Biomedical Engineering*; The Johns Hopkins University (Baltimore, MD)
 
-2002
-:   **B.Sc., Biomedical Engineering**; Tulane University (New Orleans, LA)
+**2002** -- *B.Sc., Biomedical Engineering*; Tulane University (New Orleans, LA)
 
 Professional Experience
 ----------
@@ -76,12 +75,12 @@ Commission
 2014  -- 2015
 :   PREPARE2: Increased science awareness among youth, Simula School of Research and Innovation, PROFORSK, Research Council of Norway
 
+
 2014
 :   Expert Advisor Policy Fellowship, The Research Council of Norway Brussels Office
 
 2012  -- 2013
-:   Can Simulation shed light on a complex disease process?, Simula Research Laboratory/University of California San Diego, IS-BILAT, \
-Research Council of Norway
+:   Can Simulation shed light on a complex disease process?, Simula Research Laboratory/University of California San Diego, IS-BILAT, Research Council of Norway
 
 2011  -- 2019
 :   The Center for Cardiological Innovation, Simula Research Laboratory, SFI Program, Research Council of Norway
