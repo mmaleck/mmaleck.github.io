@@ -11,7 +11,8 @@ locale                   : "en-US"
 title                    : "mmaleck.github.io"
 title_separator          : "-"
 name                     : &name "Molly Maleckar"
-description              : &description "Modeling team Director at the Allen Institute for Cell Science"
+#description              : &description "Modeling team Director at the Allen Institute for Cell Science"
+description              : &description "Research Professor in Computational Physiology at Simula Research Lab"
 url                      : https://mmaleck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmaleckt.github.io"
@@ -79,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Molly Maleckar"
-  avatar           : "molly.png"
-  bio              : "Modeling Director at the Allen Institute for Cell Science"
+  avatar           : "molly.jpg"
+  bio              : "Research Professor at Simula Research Lab"
   location         : "Seattle, WA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=4eLFmnsAAAAJ&hl=en"
