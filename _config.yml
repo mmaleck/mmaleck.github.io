@@ -15,7 +15,7 @@ name                     : &name "Molly Maleckar"
 description              : &description "Research Professor in Computational Physiology at Simula Research Lab"
 url                      : https://mmaleck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mmaleckt.github.io"
+repository               : "mmaleck.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 # Site Author
 author:
   name             : "Molly Maleckar"
-  avatar           : "molly.jpg"
+  avatar           : "molly.png"
   bio              : "Research Professor at Simula Research Lab"
-  location         : "Seattle, WA"
+  location         : "New Orleans, LA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=4eLFmnsAAAAJ&hl=en"
   email            : 
