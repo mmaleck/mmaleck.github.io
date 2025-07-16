@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Access the PDF directly here.]({{ mmaleck.github.io }}/files/resume.pdf)
+[Access the PDF directly here.]({{ mmaleck.github.io }}/files/CV2025.pdf)
 
 
 
